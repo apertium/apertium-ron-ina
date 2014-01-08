@@ -1,8 +1,8 @@
 * text=auto !eol
 /Makefile -text
-/apertium-ron-ian.ian.dix -text
-/apertium-ron-ian.ron-ian.dix -text
-/apertium-ron-ian.ron-ian.t1x -text
-/apertium-ron-ian.ron.dix -text
+/apertium-ron-ina.ina.dix -text
+/apertium-ron-ina.ron-ina.dix -text
+/apertium-ron-ina.ron-ina.t1x -text
+/apertium-ron-ina.ron.dix -text
 dev/iawiki.filter.text -text
 dev/interlingua_frequency -text
