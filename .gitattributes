@@ -1,8 +1,11 @@
 * text=auto !eol
 /Makefile -text
+/apertium-ron-ina.ina-ron.t1x -text
 /apertium-ron-ina.ina.dix -text
 /apertium-ron-ina.ron-ina.dix -text
 /apertium-ron-ina.ron-ina.t1x -text
 /apertium-ron-ina.ron.dix -text
 dev/iawiki.filter.text -text
 dev/interlingua_frequency -text
+/ina-ron.prob -text svneol=unset#unset
+/modes.xml -text
