@@ -1,6 +1,6 @@
 all:
-	lt-comp rl apertium-ron-ian.ron-ian.dix ian-ron.autobil.bin
-	lt-comp lr apertium-ron-ian.ian.dix ian-ron.automorf.bin
-	lt-comp rl apertium-ron-ian.ron.dix ian-ron.autogen.bin
-	apertium-preprocess-transfer apertium-ron-ian.ron-ian.t1x ron-ian.t1x.bin
+	lt-comp rl apertium-ron-ina.ron-ina.dix ina-ron.autobil.bin
+	lt-comp lr apertium-ron-ina.ina.dix ina-ron.automorf.bin
+	lt-comp rl apertium-ron-ina.ron.dix ina-ron.autogen.bin
+	apertium-preprocess-transfer apertium-ron-ina.ron-ina.t1x ron-ina.t1x.bin
 
